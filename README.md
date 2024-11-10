@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Gopal
+- 👀 I’m interested in technologies, science, and quantum.
+- 🌱 I’m currently learning about motor development, electronics, algorithms, and other mathematical concepts related to electrical engineering and science.
+- 💞️ I’m looking to collaborate on projects related to quantum science, tech innovation, electrical engineering, and open-source software.
+- 📫 How to reach me: You can contact me via my "https://www.linkedin.com/in/Sai-Gopal-Rachakonda/" or "gopalsai20021909@gmail.com"
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I’m exploring mathematical formulations and algorithms, and I wish to learn more about the math behind quantum mechanics!
